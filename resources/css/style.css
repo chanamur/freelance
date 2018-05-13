@@ -72,6 +72,11 @@ nav a:hover {
   text-align: justify;
 }
 
+/* pied */
+
+.pied {
+  background-color: #ffffe6;
+}
 
 
 /* media queries */
