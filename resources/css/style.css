@@ -119,13 +119,9 @@ nav a:hover {
   }
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 540px) {
   .desktop {
     display: none;
-  }
-
-  .fas {
-    display: block;
   }
 
   .icon {
