@@ -6,7 +6,14 @@ body {
   font-family: 'ABeeZee', sans-serif;
 }
 
-h1,
+
+h1 {
+  font-family: 'Alegreya', serif;
+  font-weight: 900;
+  padding: 2rem 0;
+  font-size: 40px;
+}
+
 h2 {
   font-family: 'Alegreya', serif;
   font-weight: 900;
@@ -24,6 +31,7 @@ nav {
   background-color: #004080;
   font-size: 1.2rem;
   font-weight: bold;
+  color: #fff;
 }
 
 nav li {
@@ -62,8 +70,9 @@ nav a:hover {
 
 /* titre */
 .titre {
-  background-color: #ffffe6;
-  padding-top: 2rem;
+  background-color: #004080;
+  text-align: center;
+  color: #fff;
 }
 
 /* présentation */
