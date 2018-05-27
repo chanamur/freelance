@@ -101,6 +101,12 @@ nav a:hover {
 
 .pied {
   background-color: #ffffe6;
+  text-align: center;
+  padding: 2rem;
+}
+
+.ppied {
+  font-size: 0.8rem;
 }
 
 
@@ -129,5 +135,4 @@ nav a:hover {
   h1 {
     font-size: 28px;
   }
-
 }
