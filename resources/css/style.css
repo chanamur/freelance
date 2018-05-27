@@ -100,8 +100,9 @@ nav a:hover {
 /* pied */
 
 .pied {
-  background-color: #ffffe6;
+  background-color: #004080;
   text-align: center;
+  color: white;
   padding: 2rem;
 }
 
